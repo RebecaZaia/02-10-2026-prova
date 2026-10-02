@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nomeAluno": "Ana",
+    "livro": "Clean Code",
+    "devolvidoEm": null
+  },
+  {
+    "id": 2,
+    "nomeAluno": "Betina",
+    "livro": "Harry Potter",
+    "devolvidoEm": null
+  },
+  {
+    "id": 3,
+    "nomeAluno": "Betina",
+    "livro": "Harry Potter"
+  },
+  {
+    "id": 4,
+    "nomeAluno": "alguem",
+    "livro": "Harry Potter"
+  },
+  {
+    "id": 5,
+    "nomeAluno": "alguem 2",
+    "livro": "Harry Potter",
+    "devolvidoEm": null
+  }
+]
